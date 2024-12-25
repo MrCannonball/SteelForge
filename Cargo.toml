@@ -1,0 +1,12 @@
+[workspace]
+members = [
+	"System\\engine\\SFCore",
+	"System\\renderer\\SFRenderer",
+	"System\\RII\\RII",
+	"System\\RII\\RIIVulkan",
+	"System\\platform\\Windows",
+	"System\\launcher\\game_launcher",
+	"System\\launcher\\editor_launcher",
+	"Game\\game",
+	"Game\\game_editor",
+]

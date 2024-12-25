@@ -1,0 +1,4 @@
+trait rii_buffer
+{
+
+};
